@@ -1,5 +1,4 @@
 # ProjectLight
-This repository currently contains plan for "Project Light"
 
 Author: Amitabh Nag, amnag@uw.edu
 
