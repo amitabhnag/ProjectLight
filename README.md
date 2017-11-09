@@ -1,5 +1,7 @@
 # ProjectLight
 
+<img src="/kerosene-lamp-1202277_1920.jpg" width="250">
+
 Author: Amitabh Nag, amnag@uw.edu
 
 Program/Course: University of Washington - Masters in Data Science - Data 512 - Human Centered Data Science
