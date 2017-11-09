@@ -13,3 +13,5 @@ Education is a right just like right to have proper food and shelter. Education 
 
 ## Current Project Stage: Planning
 For a detailed Project plan please refer this file: "Plan for Project Light.ipynb" 
+
+Project Light image available under CC0 from https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277/ 
