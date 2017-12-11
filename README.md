@@ -1,5 +1,4 @@
 
-
 # Project Light
 <img src="/kerosene-lamp-1202277_1920.jpg" width="250">
 
@@ -37,6 +36,14 @@ Lasso regression identified "No mid day meal" factor to have a positive correlat
 Acronyms:
 * IHDS - India Human Development Survey
 * ICPSR - Inter-university Consortium for Political and Social Research
+
+## Quick start guide
+* Download and extract below two zip files containing data and documentation. Note that based on ICPSR/IHDS terms of service data is not attached with this repository. Please note you have to sign in ICPSR and agree to terms of service, before you can download the data  
+    * [DS1: Individual](http://www.icpsr.umich.edu/cgi-bin/bob/zipcart2?path=DSDR&study=22626&bundle=all&ds=1&dups=yes)
+    * [DS2: Household](http://www.icpsr.umich.edu/cgi-bin/bob/terms2?study=22626&ds=2&bundle=&path=DSDR)
+* Ensure you have Anaconda Python 3.6 with Jupyter notebook installed from [here](https://www.anaconda.com/download/)
+* Ensure you have pandas, numpy, and scikit-learn packages installed on your computer. You can check if these packages are installed using Anaconda navigator
+* Run the code step by step from ProjectLight.ipynb
 
 ## Licensing
 * ICPSR/IHDS 2005 data and documentation is available under following [terms of use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/22626/terms) 
