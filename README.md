@@ -42,7 +42,7 @@ Acronyms:
     * [DS2: Household](http://www.icpsr.umich.edu/cgi-bin/bob/terms2?study=22626&ds=2&bundle=&path=DSDR)
 * Ensure you have Anaconda Python 3.6 with Jupyter notebook installed from [here](https://www.anaconda.com/download/)
 * Ensure you have pandas, numpy, and scikit-learn packages installed on your computer. You can check if these packages are installed using Anaconda navigator
-* Run the code step by step from ProjectLight.ipynb
+* Run the code step by step from ProjectLight.ipynb. Ensure to update the path related variables to your computer paths in step 3 of the notebook 
 
 ## Licensing
 * ICPSR/IHDS 2005 data and documentation is available under following [terms of use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/22626/terms) 
