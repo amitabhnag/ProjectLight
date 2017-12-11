@@ -31,7 +31,7 @@ Based on a dataset from ICPSR/IHDS and using Lasso regression, following factors
 
 (+/-) indicate a positive or negative correlation with the student performance.
 
-Lasso regression identified "No mid day meal" factor to have a positive correlation with student performance. Mid day meal program was launched in India ["with a view to enhancing enrollment, retention and attendance and simultaneously improving nutritional levels among children"](http://mdm.nic.in). This result in this study is not consistent with this goal and needs to be investigated as a next step. 
+Lasso regression identified "No mid day meal" factor to have a positive correlation with student performance. Mid day meal program was launched in India ["with a view to enhancing enrollment, retention and attendance and simultaneously improving nutritional levels among children"](http://mdm.nic.in). Result found by this study is not consistent with the Mid day meal goal and needs to be investigated as a next step. 
 
 Acronyms:
 * IHDS - India Human Development Survey
