@@ -7,18 +7,46 @@ Program/Course: University of Washington - Masters in Data Science - Data 512 - 
 
 Revision: 1.0
 
-## Overview:
-Education is a right just like right to have proper food and shelter. Education is also a passport to human development. Project Light aims to throw light upon factors affecting student performance in India
+## Abstract:
+### Overview
+>“Project Light” throws light upon factors affecting student performance in India
+
+These factors will bring focus to the work of nonprofit, government and Industry. This research finds answer to the question: What are the factors that affect student's performance as measured by reading, writing and math skills in India? Hypothesis is that the two most significant factors affecting student performance in India are: 
+   * School type - Government vs private school 
+   * Parents wealth
+
+Based on a dataset from ICPSR/IHDS and using Lasso regression, following factors are identified to have a correlation with student performance:  
+* Interesting factors - these are the factors that are not in the hypothesis, however are interesting as they can help inform the work of nonprofit, government and Industry 
+    * (-) No toilet
+    * (+) Good school environment
+    * (+) Household education, including the education level of 21+ female
+    * (+) No Mid day meal
+
+* Confirmed Hypothesis - these factors are a part of the research hypothesis and are indeed confirmed by Lasso regression
+    * (+) Parents wealth 
+    * (+) Attend private school vs public school
+
+* Directly correlated - these factors relate to student's educational achievement and hence correlate directly with the student performance
+    * (+) Educational achievement 
+
+(+/-) indicate a positive or negative correlation with the student performance.
+
 
 ## Current Project Stage: Planning
 For a detailed Project plan please refer this file: "Plan for Project Light.ipynb" 
 
-
-Project Light image available under CC-0 from https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277/ 
-
-
 ## Licensing
+* ICPSR/IHDS 2005 data available under [terms of use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/22626/terms) 
+* CC0 - Project Light image from [pixabay](https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277)
+* CC0 - Toilet image from [pixabay](https://pixabay.com/en/privy-toilet-mobile-wc-474588)
+
+## References
 * Project Light image available under CC0 from [pixabay](https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277)
 * Toilet image available under CC0 from [pixabay](https://pixabay.com/en/privy-toilet-mobile-wc-474588)
+depth/education/index.html)
 * ICPSR/IHDS 2005 [data](http://www.icpsr.umich.edu/icpsrweb/content/DSDR/idhs-data-guide.html). This is the data used in this research
+* ICPSR/IHDS 2011 [data](http://www.icpsr.umich.edu/icpsrweb/content/DSDR/idhs-II-data-guide.html). This is a newer dataset, however it is not used in this research 
+persistentId=hdl:1902.1/13084&version=1.0)
+* Harvard Dataverse - Pratham Information Project - Read India [data source](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/13084&version=1.0)
+* Installing python [packages](https://docs.python.org/3/installing/index.html)
 
