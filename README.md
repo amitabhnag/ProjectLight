@@ -36,7 +36,7 @@ Acronyms:
 * ICPSR - Inter-university Consortium for Political and Social Research
 
 ## Licensing
-* ICPSR/IHDS 2005 data is available under following [terms of use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/22626/terms) 
+* ICPSR/IHDS 2005 data and documentation is available under following [terms of use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/22626/terms) 
 * CC0 - Project Light image from [pixabay](https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277)
 * CC0 - Toilet image from [pixabay](https://pixabay.com/en/privy-toilet-mobile-wc-474588)
 
