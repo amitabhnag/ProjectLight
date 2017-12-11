@@ -8,7 +8,6 @@ Program/Course: University of Washington - Masters in Data Science - Data 512 - 
 Revision: 1.0
 
 ## Abstract:
-### Overview
 >“Project Light” throws light upon factors affecting student performance in India
 
 These factors will bring focus to the work of nonprofit, government and Industry. This research finds answer to the question: What are the factors that affect student's performance as measured by reading, writing and math skills in India? Hypothesis is that the two most significant factors affecting student performance in India are: 
@@ -31,22 +30,13 @@ Based on a dataset from ICPSR/IHDS and using Lasso regression, following factors
 
 (+/-) indicate a positive or negative correlation with the student performance.
 
-
-## Current Project Stage: Planning
-For a detailed Project plan please refer this file: "Plan for Project Light.ipynb" 
-
 ## Licensing
 * ICPSR/IHDS 2005 data available under [terms of use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/22626/terms) 
 * CC0 - Project Light image from [pixabay](https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277)
 * CC0 - Toilet image from [pixabay](https://pixabay.com/en/privy-toilet-mobile-wc-474588)
 
 ## References
-* Project Light image available under CC0 from [pixabay](https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277)
-* Toilet image available under CC0 from [pixabay](https://pixabay.com/en/privy-toilet-mobile-wc-474588)
-depth/education/index.html)
-* ICPSR/IHDS 2005 [data](http://www.icpsr.umich.edu/icpsrweb/content/DSDR/idhs-data-guide.html). This is the data used in this research
-* ICPSR/IHDS 2011 [data](http://www.icpsr.umich.edu/icpsrweb/content/DSDR/idhs-II-data-guide.html). This is a newer dataset, however it is not used in this research 
-persistentId=hdl:1902.1/13084&version=1.0)
+* ICPSR/IHDS 2005 [data and documentation](https://doi.org/10.3886/ICPSR22626.v11). This is the data used in this research
+* Project Light image from [pixabay](https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277)
+* Toilet image from [pixabay](https://pixabay.com/en/privy-toilet-mobile-wc-474588)
 * Harvard Dataverse - Pratham Information Project - Read India [data source](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/13084&version=1.0)
-* Installing python [packages](https://docs.python.org/3/installing/index.html)
-
