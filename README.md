@@ -1,4 +1,5 @@
 
+
 # Project Light
 <img src="/kerosene-lamp-1202277_1920.jpg" width="250">
 
@@ -41,6 +42,7 @@ Acronyms:
 * ICPSR/IHDS 2005 data and documentation is available under following [terms of use](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/22626/terms) 
 * CC0 - Project Light image from [pixabay](https://pixabay.com/en/kerosene-lamp-old-replacement-lamp-1202277)
 * CC0 - Toilet image from [pixabay](https://pixabay.com/en/privy-toilet-mobile-wc-474588)
+* MIT - Code for Project Light is available under MIT license. License file is available with the repository
 
 ## References
 * ICPSR/IHDS 2005 [data and documentation](https://doi.org/10.3886/ICPSR22626.v11). This is the data used in this research
