@@ -1,5 +1,5 @@
 
-# ProjectLight
+# Project Light
 <img src="/kerosene-lamp-1202277_1920.jpg" width="250">
 
 Author: Amitabh Nag, amnag@uw.edu
@@ -8,7 +8,7 @@ Program/Course: University of Washington - Masters in Data Science - Data 512 - 
 
 Revision: 1.0
 
-## Abstract:
+## Abstract
 >“Project Light” throws light upon factors affecting student performance in India
 
 These factors will bring focus to the work of nonprofit, government and Industry. This research finds answer to the question: What are the factors that affect student's performance as measured by reading, writing and math skills in India? Hypothesis is that the two most significant factors affecting student performance in India are: 
